@@ -125,12 +125,13 @@ h6 {
 --------------------------------------------------------------*/
 
 #header {
+  background: #34C0DF;
   height: 80px;
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
   padding: 20px 0;
-  background: #fff;
+  
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.3);
 }
 
